@@ -8,3 +8,14 @@ I will answer interesting questions about it by computing descriptive statistics
 
 ![divvy](https://github.com/HaCkeMati314n/bikeshare-dataset-investigation/assets/94754426/a263c4e1-50e7-4397-ad5f-ce2a4b257776)
 <i>Divvy is a bicycle-sharing system in the City of Chicago and two adjacent suburbs (image: [Wikipedia](https://en.wikipedia.org/wiki/Divvy))</i>
+<br>
+<br>
+<br>
+
+## Features
+<i>
+
+* Interactive Python Script
+* Python Modules: (Pandas, NumPy)
+* Working with CSV Data File Format
+</i>
