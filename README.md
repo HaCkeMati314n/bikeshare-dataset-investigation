@@ -8,7 +8,7 @@ I will answer interesting questions about it by computing descriptive statistics
 <i>Divvy is a bicycle-sharing system in the City of Chicago and two adjacent suburbs (image: [Wikipedia](https://en.wikipedia.org/wiki/Divvy))</i>
 <br>
 
-## Features
+## <i>Features</i>
 <i>
 
 * Interactive Python Script
